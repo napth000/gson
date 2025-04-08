@@ -125,8 +125,7 @@ public final class JsonPrimitive extends JsonElement {
    * @return true if this primitive contains a Number, false otherwise.
    */
   public boolean isNumber() {
-    // return value instanceof Number;
-    return false;
+    return value instanceof Number;
   }
 
   /**

@@ -33,7 +33,7 @@ import java.util.Objects;
  * @since 1.4
  */
 public final class FieldAttributes {
-  private final Field field;
+  private Field field = null;
 
   /**
    * Constructs a Field Attributes object from the {@code f}.

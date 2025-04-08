@@ -30,7 +30,7 @@ package com.google.gson;
  * @author Joel Leitch
  */
 public class JsonParseException extends RuntimeException {
-  static final long serialVersionUID = -4086729973971783390L;
+  static final long serialVersionUID = -4086729973971783395L;
 
   /**
    * Creates exception with the specified message. If you are wrapping another exception, consider

@@ -29,7 +29,6 @@ import org.junit.Test;
  */
 public final class CommentsTest {
 
-
   /** Test for issue 212. */
   @Test
   public void testParseComments() {
